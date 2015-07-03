@@ -1,0 +1,487 @@
+
+-------------------------------------------------------
+PROCESS NAME (1):  [System Process]
+  Process ID        = 0x00000000
+  Thread count      = 2
+  Parent process ID = 0x00000000
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (2):  System
+  Process ID        = 0x00000004
+  Thread count      = 106
+  Parent process ID = 0x00000000
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (3):  smss.exe
+  Process ID        = 0x000000FC
+  Thread count      = 2
+  Parent process ID = 0x00000004
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (4):  csrss.exe
+  Process ID        = 0x00000190
+  Thread count      = 10
+  Parent process ID = 0x0000014C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (5):  wininit.exe
+  Process ID        = 0x000001E0
+  Thread count      = 3
+  Parent process ID = 0x0000014C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (6):  csrss.exe
+  Process ID        = 0x000001F0
+  Thread count      = 12
+  Parent process ID = 0x000001D8
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (7):  services.exe
+  Process ID        = 0x0000021C
+  Thread count      = 7
+  Parent process ID = 0x000001E0
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (8):  winlogon.exe
+  Process ID        = 0x00000234
+  Thread count      = 3
+  Parent process ID = 0x000001D8
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (9):  lsass.exe
+  Process ID        = 0x00000250
+  Thread count      = 8
+  Parent process ID = 0x000001E0
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (10):  lsm.exe
+  Process ID        = 0x0000025C
+  Thread count      = 11
+  Parent process ID = 0x000001E0
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (11):  svchost.exe
+  Process ID        = 0x000002C0
+  Thread count      = 11
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (12):  svchost.exe
+  Process ID        = 0x00000310
+  Thread count      = 9
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (13):  atiesrxx.exe
+  Process ID        = 0x00000344
+  Thread count      = 6
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (14):  svchost.exe
+  Process ID        = 0x00000388
+  Thread count      = 20
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (15):  svchost.exe
+  Process ID        = 0x000003B0
+  Thread count      = 19
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (16):  svchost.exe
+  Process ID        = 0x000003CC
+  Thread count      = 14
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (17):  svchost.exe
+  Process ID        = 0x000003E4
+  Thread count      = 31
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (18):  svchost.exe
+  Process ID        = 0x00000290
+  Thread count      = 5
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (19):  atieclxx.exe
+  Process ID        = 0x0000044C
+  Thread count      = 10
+  Parent process ID = 0x00000344
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (20):  ZhuDongFangYu.exe
+  Process ID        = 0x0000047C
+  Thread count      = 17
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (21):  svchost.exe
+  Process ID        = 0x000004EC
+  Thread count      = 17
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (22):  spoolsv.exe
+  Process ID        = 0x00000578
+  Thread count      = 14
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (23):  svchost.exe
+  Process ID        = 0x000005A4
+  Thread count      = 12
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (24):  taskhost.exe
+  Process ID        = 0x00000624
+  Thread count      = 11
+  Parent process ID = 0x0000021C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (25):  dwm.exe
+  Process ID        = 0x00000674
+  Thread count      = 5
+  Parent process ID = 0x000003B0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (26):  explorer.exe
+  Process ID        = 0x000006D4
+  Thread count      = 34
+  Parent process ID = 0x00000668
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (27):  ADSafeSvc.exe
+  Process ID        = 0x000007B4
+  Thread count      = 4
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (28):  DhMachineSvc.exe
+  Process ID        = 0x000007D0
+  Thread count      = 13
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (29):  ADSafe.exe
+  Process ID        = 0x000007E0
+  Thread count      = 36
+  Parent process ID = 0x000007B4
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (30):  pcas.exe
+  Process ID        = 0x00000770
+  Thread count      = 8
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (31):  RAVCpl64.exe
+  Process ID        = 0x0000078C
+  Thread count      = 11
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (32):  BLDBaseService.exe
+  Process ID        = 0x0000065C
+  Thread count      = 15
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (33):  BlueBox.exe
+  Process ID        = 0x00000830
+  Thread count      = 17
+  Parent process ID = 0x0000065C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (34):  secbizsrv.exe
+  Process ID        = 0x00000844
+  Thread count      = 22
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (35):  kuaipan_backup.exe
+  Process ID        = 0x0000084C
+  Thread count      = 37
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (36):  sqlwriter.exe
+  Process ID        = 0x00000888
+  Thread count      = 4
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (37):  svchost.exe
+  Process ID        = 0x000008A4
+  Thread count      = 6
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (38):  TeamViewer_Service.exe
+  Process ID        = 0x000008C8
+  Thread count      = 21
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (39):  360sd.exe
+  Process ID        = 0x00000910
+  Thread count      = 23
+  Parent process ID = 0x00000458
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (40):  MonServiceUDisk.exe
+  Process ID        = 0x00000998
+  Thread count      = 4
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (41):  vmnat.exe
+  Process ID        = 0x000009D0
+  Thread count      = 6
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (42):  360tray.exe
+  Process ID        = 0x00000A04
+  Thread count      = 93
+  Parent process ID = 0x0000047C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (43):  vmnetdhcp.exe
+  Process ID        = 0x00000A7C
+  Thread count      = 3
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (44):  baidupinyin.exe
+  Process ID        = 0x00000A98
+  Thread count      = 17
+  Parent process ID = 0x00000854
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (45):  vmware-tray.exe
+  Process ID        = 0x00000AEC
+  Thread count      = 4
+  Parent process ID = 0x00000854
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (46):  vmware-usbarbitrator64.exe
+  Process ID        = 0x00000B04
+  Thread count      = 5
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (47):  vmware-authd.exe
+  Process ID        = 0x00000198
+  Thread count      = 6
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (48):  vmware-hostd.exe
+  Process ID        = 0x00000DA0
+  Thread count      = 14
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (49):  ADSafe64.exe
+  Process ID        = 0x00000F28
+  Thread count      = 1
+  Parent process ID = 0x000007E0
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (50):  Alipaybsm.exe
+  Process ID        = 0x00001014
+  Thread count      = 20
+  Parent process ID = 0x00000844
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (51):  svchost.exe
+  Process ID        = 0x0000107C
+  Thread count      = 5
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (52):  TeamViewer.exe
+  Process ID        = 0x0000123C
+  Thread count      = 20
+  Parent process ID = 0x000008C8
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (53):  aliwssv.exe
+  Process ID        = 0x000012A4
+  Thread count      = 5
+  Parent process ID = 0x00000844
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (54):  conhost.exe
+  Process ID        = 0x000012AC
+  Thread count      = 1
+  Parent process ID = 0x000001F0
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (55):  tv_w32.exe
+  Process ID        = 0x0000136C
+  Thread count      = 2
+  Parent process ID = 0x000008C8
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (56):  tv_x64.exe
+  Process ID        = 0x00001374
+  Thread count      = 2
+  Parent process ID = 0x000008C8
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (57):  360rp.exe
+  Process ID        = 0x000011E4
+  Thread count      = 65
+  Parent process ID = 0x00000910
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (58):  TaobaoProtect.exe
+  Process ID        = 0x00001630
+  Thread count      = 27
+  Parent process ID = 0x000012D0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (59):  chrome.exe
+  Process ID        = 0x000017FC
+  Thread count      = 37
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (60):  chrome.exe
+  Process ID        = 0x000013C4
+  Thread count      = 6
+  Parent process ID = 0x000017FC
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (61):  chrome.exe
+  Process ID        = 0x000006B0
+  Thread count      = 12
+  Parent process ID = 0x000017FC
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (62):  chrome.exe
+  Process ID        = 0x00000C18
+  Thread count      = 23
+  Parent process ID = 0x000017FC
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (63):  svchost.exe
+  Process ID        = 0x0000114C
+  Thread count      = 12
+  Parent process ID = 0x0000021C
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (64):  cmd.exe
+  Process ID        = 0x000012EC
+  Thread count      = 1
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (65):  conhost.exe
+  Process ID        = 0x00001468
+  Thread count      = 3
+  Parent process ID = 0x000001F0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (66):  chrome.exe
+  Process ID        = 0x00000E7C
+  Thread count      = 12
+  Parent process ID = 0x000017FC
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (67):  QQProtect.exe
+  Process ID        = 0x000012B0
+  Thread count      = 10
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (68):  QQ.exe
+  Process ID        = 0x00000D8C
+  Thread count      = 48
+  Parent process ID = 0x000012B0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (69):  TXPlatform.exe
+  Process ID        = 0x00000488
+  Thread count      = 4
+  Parent process ID = 0x000002C0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (70):  devenv.exe
+  Process ID        = 0x0000080C
+  Thread count      = 43
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (71):  mspdbsrv.exe
+  Process ID        = 0x0000031C
+  Thread count      = 5
+  Parent process ID = 0x00001164
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (72):  MSBuild.exe
+  Process ID        = 0x00001690
+  Thread count      = 8
+  Parent process ID = 0x0000080C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (73):  conhost.exe
+  Process ID        = 0x00000558
+  Thread count      = 1
+  Parent process ID = 0x000001F0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (74):  chrome.exe
+  Process ID        = 0x00001164
+  Thread count      = 12
+  Parent process ID = 0x000017FC
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (75):  MSBuild.exe
+  Process ID        = 0x000007A0
+  Thread count      = 20
+  Parent process ID = 0x0000080C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (76):  conhost.exe
+  Process ID        = 0x00000618
+  Thread count      = 1
+  Parent process ID = 0x000001F0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (77):  audiodg.exe
+  Process ID        = 0x000013F4
+  Thread count      = 4
+  Parent process ID = 0x00000388
+  Session ID        = 0
+-------------------------------------------------------
+PROCESS NAME (78):  vcpkgsrv.exe
+  Process ID        = 0x00001740
+  Thread count      = 7
+  Parent process ID = 0x0000080C
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (79):  FindFile.exe
+  Process ID        = 0x00000F04
+  Thread count      = 1
+  Parent process ID = 0x000006D4
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (80):  conhost.exe
+  Process ID        = 0x00000470
+  Thread count      = 4
+  Parent process ID = 0x000001F0
+  Session ID        = 1
+-------------------------------------------------------
+PROCESS NAME (81):  dllhost.exe
+  Process ID        = 0x00000E74
+  Thread count      = 9
+  Parent process ID = 0x000002C0
+  Session ID        = 1

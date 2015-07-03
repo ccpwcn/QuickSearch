@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/1/11 0:12:13。
+     1>项目“e:\Users\administrator\documents\visual studio 2013\Projects\QuickSearch\TaskMgrEx\TaskMgrEx.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\TaskMgrEx.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TaskMgrEx.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TaskMgrEx.cpp TaskMgrExDlg.cpp
+         TaskMgrEx.cpp
+         TaskMgrExDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\TaskMgrEx.res" TaskMgrEx.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\users\administrator\documents\visual studio 2013\Projects\QuickSearch\Release\TaskMgrEx.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\users\administrator\documents\visual studio 2013\Projects\QuickSearch\Release\TaskMgrEx.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\users\administrator\documents\visual studio 2013\Projects\QuickSearch\Release\TaskMgrEx.lib" /MACHINE:X86 /SAFESEH Release\TaskMgrEx.res
+         Release\stdafx.obj
+         Release\TaskMgrEx.obj
+         Release\TaskMgrExDlg.obj
+         正在生成代码
+         已完成代码的生成
+         TaskMgrEx.vcxproj -> e:\users\administrator\documents\visual studio 2013\Projects\QuickSearch\Release\TaskMgrEx.exe
+     1>已完成生成项目“e:\Users\administrator\documents\visual studio 2013\Projects\QuickSearch\TaskMgrEx\TaskMgrEx.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.53
